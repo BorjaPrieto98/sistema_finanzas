@@ -1,4 +1,4 @@
-import {} from '../types/Category';
+import {Category} from '../types/Category';
 
 export const categories: Category = {
     food: { title: 'Alimentación', color: 'blue', expense: true},
